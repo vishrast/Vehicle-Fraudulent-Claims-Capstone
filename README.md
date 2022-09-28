@@ -16,5 +16,10 @@ above 0.8 in 6 months
 
 ### Data Wrangling & Exploratory Data Analysis
 [Data Wrangling and Exploratory Data Analysis NoteBook](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/ad45778b23be1dffabdd59e085c499ec3469dfd2/Data%20Wrangling%20and%20Exploratory%20Data%20Analysis.ipynb)
-During this phase we gained following insights:
+During this phase we cleaned the data and gained insights about the data set.
+![image](https://user-images.githubusercontent.com/95660642/192667584-6cf51c47-74ee-4581-a4a2-3f7c119f6868.png)
+![image](https://user-images.githubusercontent.com/95660642/192667765-333a3d53-27b7-49d8-be20-46e542b8f44f.png)
+
+The address change in last 6 months,Utility vehicle had higher probablity of of fraudulent claims
+
 
