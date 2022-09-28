@@ -14,6 +14,7 @@ account of exaggerated and false claims about accidents, property damage and phy
 developing machine learning models which can improve the accuracy as measured by F1 SCORE to 
 above 0.8 in 6 months
 
-### [Data Wrangling and Exploratory Data Analysis](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/ad45778b23be1dffabdd59e085c499ec3469dfd2/Data%20Wrangling%20and%20Exploratory%20Data%20Analysis.ipynb)
+### Data Wrangling & Exploratory Data Analysis
+[Data Wrangling and Exploratory Data Analysis NoteBook](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/ad45778b23be1dffabdd59e085c499ec3469dfd2/Data%20Wrangling%20and%20Exploratory%20Data%20Analysis.ipynb)
 During this phase we gained following insights:
 
