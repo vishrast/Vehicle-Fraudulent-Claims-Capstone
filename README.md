@@ -25,6 +25,7 @@ The address change in last 6 months,Utility vehicle had higher probablity of of 
 
 ### Pre-Processing, Training and Modeling
 The pre-processing, training and modeling steps are including in the notebooks attached below
+
 [Pre-processing & Training-1](https://github.com/vishrast/Vehicle-Insurance-Fraud-Detection-/blob/1f88b674e4e48d3f1f7d527ea05480f6dfe99205/Pre-Processing%20and%20Training-%20Phase%201.ipynb)
 
 [Pre-processing & Training-2](https://github.com/vishrast/Vehicle-Insurance-Fraud-Detection-/blob/1f88b674e4e48d3f1f7d527ea05480f6dfe99205/Pre-Processing%20and%20Training-Phase2.ipynb)
