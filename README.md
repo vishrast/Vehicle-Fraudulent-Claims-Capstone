@@ -6,7 +6,7 @@ Verisk, indicated that insurance companies had to bear losses to the tune of $29
 According to [Progressive, auto insurance fraud is committed when someone falsely claims about an event
 and get monetarily compensated](https://www.progressive.com/answers/car-insurance-fraud). In this project an attempt has been made to explore major
 contributing factors which have led to fraud along with developing models which can distinguish
-fraudulent transactions. For this model data is obtained from [Vehicle Insurance Claim Fraud Detection](https://www.kaggle.com/shivamb/vehicle-claim-fraud-detection)
+fraudulent transactions. For this model data is obtained from [Vehicle Insurance Claim Fraud Detection](https://www.kaggle.com/shivamb/vehicle-claim-fraud-detection). Please view [Slides](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/cfcdfcbd13e037b4cdc897b4a6417ae3a77ae95a/Vehicle%20Insurance%20Fraud%20Detection%20Project%20Presentation-PDF.pdf) and [Report](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/cfcdfcbd13e037b4cdc897b4a6417ae3a77ae95a/Vehicle%20Insurance%20Fraudulent%20Claims_Final_Report.pdf) for further details 
 
 ### Problem statement
 How can Data Science be leveraged to detect Vehicle Insurance Fraudulent claims to reduce losses on 
