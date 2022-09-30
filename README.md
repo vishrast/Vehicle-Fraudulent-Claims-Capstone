@@ -4,8 +4,8 @@
 Vehicle Insurance Fraud is a major area of losses to the auto insurance companies. [Study conducted by
 Verisk](https://www.iii.org/article/background-on-insurance-fraud), indicated that insurance companies had to bear losses to the tune of $29 billion a year.
 According to [Progressive](https://www.progressive.com/answers/car-insurance-fraud), auto insurance fraud is committed when someone falsely claims about an event
-and get monetarily compensated. In this project an attempt has been made to explore major
-contributing factors which have led to fraud along with developing models which can distinguish
+and get monetarily compensated. In this project, I explored major
+contributing factors which had led to fraud along with developing models which can distinguish
 fraudulent transactions. For this model data is obtained from [Vehicle Insurance Claim Fraud Detection](https://www.kaggle.com/shivamb/vehicle-claim-fraud-detection). Please view [Slides](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/cfcdfcbd13e037b4cdc897b4a6417ae3a77ae95a/Vehicle%20Insurance%20Fraud%20Detection%20Project%20Presentation-PDF.pdf) and [Report](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/cfcdfcbd13e037b4cdc897b4a6417ae3a77ae95a/Vehicle%20Insurance%20Fraudulent%20Claims_Final_Report.pdf) for further details 
 
 ### Problem statement
@@ -17,7 +17,7 @@ above 0.8 in 6 months
 ### Data Wrangling & Exploratory Data Analysis
 [Data Wrangling and Exploratory Data Analysis NoteBook](https://github.com/vishrast/Vehicle-Fraudulent-Claims-Capstone/blob/ad45778b23be1dffabdd59e085c499ec3469dfd2/Data%20Wrangling%20and%20Exploratory%20Data%20Analysis.ipynb)
 
-During this phase we cleaned the data and gained insights about the data set.
+
 ![image](https://user-images.githubusercontent.com/95660642/192667584-6cf51c47-74ee-4581-a4a2-3f7c119f6868.png)
 ![image](https://user-images.githubusercontent.com/95660642/192667765-333a3d53-27b7-49d8-be20-46e542b8f44f.png)
 
