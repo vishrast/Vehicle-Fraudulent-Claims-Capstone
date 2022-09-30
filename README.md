@@ -32,7 +32,7 @@ The pre-processing, training and modeling steps are including in the notebooks a
 
 [Modeling](https://github.com/vishrast/Vehicle-Insurance-Fraud-Detection-/blob/1f88b674e4e48d3f1f7d527ea05480f6dfe99205/Modeling.ipynb)
 
-The key metrics of importance for fraud detection predicition model is choosed as F1 score, which is the harmonic mean of precision and recall. The biggest constaint for this data set is its imbalanced nature with 94.1% of transactions being  non-fraudulent. Additionally majority of features were categorical making generalization of the model difficult. Finally, SMOTEN for class balancing, Weight of Evidence Encoder for categorical encoding, and logistic regression model with class weight optimization were used for final model selection and f1 score imroved to 0.85
+I choose F1 score as the  key metrics of importance for fraud detection predicition model, which is the harmonic mean of precision and recall. The biggest constaint for this data set is its imbalanced nature with 94.1% of transactions being  non-fraudulent. Additionally majority of features were categorical making generalization of the model difficult. Finally, SMOTEN for class balancing, Weight of Evidence Encoder for categorical encoding, and logistic regression model with class weight optimization were used for final model selection and f1 score imroved to 0.85
 
 ![image](https://user-images.githubusercontent.com/95660642/192673052-0d9acbd6-2583-4de4-b5bd-58230c812982.png)
 
