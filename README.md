@@ -54,7 +54,7 @@ was only 0.22
 * Decision making threshold can be moved based on the business needs.
 
 ### Further Work
-The data set had several limitations as the data set only consisted of categorical variables and was highly imbalanced. Most of the models failed due to that. There are several other techniques to deal with categorical data in [category_encoders](https://contrib.scikit-learn.org/category_encoders/) library  and [imbalanced target variable](https://imbalanced-learn.org/stable/), which were not tried out and can be tried out to see if model performance can be improved further
+The data set had several limitations as the data set only consisted of categorical variables and was highly imbalanced. Most of the models failed due to that. There are several other techniques to deal with categorical data in [category_encoders](https://contrib.scikit-learn.org/category_encoders/) library  and [imbalanced learn](https://imbalanced-learn.org/stable/), which were not tried out and can be tried out to see if model performance can be improved further
 
 
 
