@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/95660642/192659637-5908361d-8485-464f-a82e-7fd8083a46cc.png)
 ### Introduction
 Vehicle Insurance Fraud is a major area of losses to the auto insurance companies. [Study conducted by
-Verisk]((https://www.iii.org/article/background-on-insurance-fraud), indicated that insurance companies had to bear losses to the tune of $29 billion a year](https://www.iii.org/article/background-on-insurance-fraud).
+Verisk](https://www.iii.org/article/background-on-insurance-fraud), indicated that insurance companies had to bear losses to the tune of $29 billion a year.
 According to [Progressive, auto insurance fraud is committed when someone falsely claims about an event
 and get monetarily compensated](https://www.progressive.com/answers/car-insurance-fraud). In this project an attempt has been made to explore major
 contributing factors which have led to fraud along with developing models which can distinguish
