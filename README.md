@@ -46,7 +46,7 @@ I choose F1 score as the  key metrics of importance for fraud detection predicit
 model with class weight optimization, gave the best results and F1 score of 0.85 is achieved on 
 minority class on validation data.
 * Dummy encoding approach did not generalize well due to too many features
-* ogistic regression with optimized class weight without balancing, generalized well but F1 score 
+* Logistic regression with optimized class weight without balancing, generalized well but F1 score 
 was only 0.22
 * Utility vehicles have higher probability of fraudulent claims in vehicle categories
 * Higher probability of fraud if address is changed within last 6 months
