@@ -17,3 +17,26 @@ Pipeline(steps=[('woe',
                                     class_weight={0: 0.4477386934673367,
                                                   1: 0.5522613065326634},
                                     max_iter=1000, random_state=1122))])
+
+Final model Metrics
+The f1 score for the training data: 0.8536803578690525
+The f1 score for the testing data: 0.8519177860495225
+Train 
+               precision    recall  f1-score   support
+
+           0       0.89      0.78      0.83     11598
+           1       0.81      0.91      0.85     11597
+
+    accuracy                           0.84     23195
+   macro avg       0.85      0.84      0.84     23195
+weighted avg       0.85      0.84      0.84     23195
+
+Test 
+               precision    recall  f1-score   support
+
+           0       0.89      0.78      0.83      2899
+           1       0.80      0.91      0.85      2900
+
+    accuracy                           0.84      5799
+   macro avg       0.85      0.84      0.84      5799
+weighted avg       0.85      0.84      0.84      5799
