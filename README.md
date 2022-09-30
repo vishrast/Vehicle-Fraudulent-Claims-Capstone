@@ -42,16 +42,16 @@ I choose F1 score as the  key metrics of importance for fraud detection predicit
 
 
 ### Key Findings
-SMOTEN balancing combined with weight of evidence encoder, and tuned Logistic Regression 
+* SMOTEN balancing combined with weight of evidence encoder, and tuned Logistic Regression 
 model with class weight optimization, gave the best results and F1 score of 0.85 is achieved on 
 minority class on validation data.
-• Dummy encoding approach did not generalize well due to too many features
-• Logistic regression with optimized class weight without balancing, generalized well but F1 score 
+* Dummy encoding approach did not generalize well due to too many features
+* ogistic regression with optimized class weight without balancing, generalized well but F1 score 
 was only 0.22
-• Utility vehicles have higher probability of fraudulent claims in vehicle categories
-• Higher probability of fraud if address is changed within last 6 months
-• Higher end vehicles like Mercedes, BMW and Acura are more involved in fraudulent claims
-• Decision making threshold can be moved based on the business needs.
+* Utility vehicles have higher probability of fraudulent claims in vehicle categories
+* Higher probability of fraud if address is changed within last 6 months
+* Higher end vehicles like Mercedes, BMW and Acura are more involved in fraudulent claims
+* Decision making threshold can be moved based on the business needs.
 
 ### Further Work
 The data set had several limitations as the data set only consisted of categorical variables and was highly imbalanced. Most of the models failed due to that. There are several other techniques to deal with categorical data in [category_encoders](https://contrib.scikit-learn.org/category_encoders/) library  and [imbalanced target variable](https://imbalanced-learn.org/stable/), which were not tried out and can be tried out to see if model performance can be improved further
